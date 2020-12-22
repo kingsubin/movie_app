@@ -4,9 +4,9 @@ import "./About.css";
 function About(props) {
   return (
     <div className="about__container">
-      <sapn>
+      <span>
         "About About About About About About About About About"
-      </sapn>
+      </span>
       <span>- Kingsubin, 1994</span>
     </div>
   );
