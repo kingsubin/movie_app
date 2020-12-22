@@ -6,7 +6,7 @@ import "./App.css";
 class App extends React.Component {
   state = {
     isLoading: true,
-    movies: [],
+    movies: []
   };
 
   // async, await
